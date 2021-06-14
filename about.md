@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
 A simple and elegant theme for Jekyll and GitHub Pages.
-
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
 * Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
