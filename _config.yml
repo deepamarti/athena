@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chitra Marti
-description: blah blah
+description: Headline
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "www.chitramarti.com" # the base hostname & protocol for your site
 github_repo: athena # the GitHub repo name for your project
@@ -22,8 +22,8 @@ github_username: deepamarti
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: broccolini
+social_link: 
+social_username: 
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.

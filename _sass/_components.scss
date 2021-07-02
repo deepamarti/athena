@@ -30,7 +30,7 @@ code {
   }
 
   ul, ol {
-    padding-left: 40px;
+
   }
 
   li {
@@ -79,8 +79,6 @@ code {
     color: $color-body-text;
     border-style: solid;
     border-width: thin;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
   }
 
   dt {
@@ -91,7 +89,6 @@ code {
 
   dd {
     font-style: italic;
-    margin-bottom: 0.5em;
   }
 
   // Markdown tables
@@ -112,7 +109,6 @@ code {
 
     th,
     td {
-      padding: $spacer-2 $spacer-3 $spacer-2 2px;
       border-top: 1px solid $color-body-text;
       border-bottom: 1px solid $color-body-text;
     }
